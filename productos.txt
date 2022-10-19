@@ -1,0 +1,14 @@
+[
+	{
+		"title": "iphone",
+		"price": "4000",
+		"thumbnail": "as",
+		"id": null
+	},
+	{
+		"title": "asd",
+		"price": "1212",
+		"thumbnail": "sad",
+		"id": 1
+	}
+]
